@@ -1,0 +1,9 @@
+.bestDeal{
+    background-image: url(images/headphoneSlide.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* width: 100%; */
+    
+}
